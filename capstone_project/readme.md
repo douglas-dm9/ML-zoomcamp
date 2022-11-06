@@ -12,9 +12,9 @@ The ideia here is this project is to build a model to predict if a review has a 
 
  [Link to the service deployed on the AWS Elastic Container Service](http://18.228.7.125:3000/#/)
  
- Unfortunately I didn't managed to make the service return a response status 200 because i'm using some packages from the nltk lybrarie (stopwords and punkt) and i don't know yet how to make  this available on my bento , but i'm working on the solution. 
+Unfortunately I didn't manage to make the service return a response status 200 because I'm using some packages from the nltk library (stopwords and punkt) and I don't know yet how to make this available on my bento , but i' m working on the solution.
  
- Because the deadline for the project is tomorrow , i decide to deploy the service , even if it's not work yet . There is a print bellow showing the service running on my local machine.
+  Because the deadline for the project is tomorrow , i decide to deploy the service , even if it's not work yet . There is a print bellow showing the service running on my local machine.
 
 ![image](https://user-images.githubusercontent.com/58889801/200193432-334f0f2f-6a23-4928-81cb-4dbd595ccfdf.png)
 
