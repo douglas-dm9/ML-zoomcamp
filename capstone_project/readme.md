@@ -11,3 +11,10 @@ a "recommend to a friend" label, a "yes or no" question representing the willing
 The ideia here is this project is to build a model to predict if a review has a positive, negative or neutral sentiment and deploy the model using BentoML and Docker to deploy on the AWS Cloud using. This service can be used improve company comunications with their customers and give a better feeling of what your customers are talking about your product or service. There are no much projects for sentiment analysis in portuguese, so this project aims to help in this context.
 
  [Link to the service deployed on the AWS Elastic Container Service](http://18.231.113.77:3000)
+
+Unfurtunately, I had do drop my cluster in AWS because the billing costs. So I'll show bellow some examples in the swagger UI of the model.
+
+![image](https://user-images.githubusercontent.com/58889801/201478236-e56f1139-324f-42a9-94a3-ecba70aae007.png)
+
+![image](https://user-images.githubusercontent.com/58889801/201478270-6c2cbdf5-21ae-47d3-a1dc-4fa33e4db462.png)
+
