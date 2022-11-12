@@ -16,5 +16,12 @@ Unfurtunately, I had do drop my cluster in AWS because the billing costs. So I'l
 
 ![image](https://user-images.githubusercontent.com/58889801/201478236-e56f1139-324f-42a9-94a3-ecba70aae007.png)
 
+Example: Negative comment:
 ![image](https://user-images.githubusercontent.com/58889801/201478270-6c2cbdf5-21ae-47d3-a1dc-4fa33e4db462.png)
 
+Example: Positive comment:
+![image](https://user-images.githubusercontent.com/58889801/201478409-4e313150-9ade-4aac-9431-634da857ff9d.png)
+
+
+Example: Neutral comment:
+![image](https://user-images.githubusercontent.com/58889801/201478453-fd33bcad-361b-4019-bb1f-854707b6b91f.png)
