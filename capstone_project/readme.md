@@ -1,5 +1,5 @@
 
-#### ML Zoomcamp Capstone Project by Douglas Melo
+#### ML Zoomcamp Mid Term Project by Douglas Melo
 
 Dataset: https://github.com/americanas-tech/b2w-reviews01
 
